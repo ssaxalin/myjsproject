@@ -8,9 +8,7 @@
     <script src="js/object.js"></script>
     <script src="js/math.js"></script>
     <script src="js/tren.js"></script>
-
     <link rel="stylesheet" href="css/style.css" type="text/css">
-
     </style>
 </head>
 
@@ -24,9 +22,6 @@
     <h1>Сайт-портфолио начинающего frontend разработчика</h1>
     <main>
         <div class="about">
-
-
-
             <p>
                 Привет. Я начинающий программист и меня зовут <b>Алексей Лёвин</b>.
                 На данный момент я еще плохо разбираюсь в веб программировании, однако нисмотря ни на что
@@ -56,8 +51,6 @@
                 as();
                 ab();
                 </script>
-
-
             </div>
         </div>
     </main>
