@@ -4,4 +4,4 @@ This test site with using JS + HTML + CSS
 
 
 //Это изменение в новой ветке
--Работает в ветке for_new_module
+-Работает в ветке for_new_modulegit
