@@ -28,4 +28,27 @@ function ab() {
     }
     document.write('<br />')
     document.write('Максимальное значение из tren.js: ' + max)
+    document.write('<br />')
+    document.write('<br />')
+
+    let fruits = []
+    for (let i = 0; i < 5; i++) {
+        fruits[i] = getrandomint(-5, 15)
+    }
+    for (let i = 0; i < 5; i++) {
+
+        document.write(fruits[i] + ' ')
+    }
+    document.write('<br />')
+    document.write('Число: ' + fruits[0] + ' удалено через shift()')
+    document.write('<br />')
+
+    fruits.shift()
+    document.write('<br />')
+    for (let i = 0; i < 5; i++) {
+        fruits.push('Привет', 'Пока') // Пока - не добавится, т.к i после первого элемента будет = 5
+        document.write(fruits[i] + ' ')
+    }
 }
+
+document.write('<br />')

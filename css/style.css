@@ -32,10 +32,11 @@ header a {
     text-decoration: none;
 }
 
-h1 {
+#zag {
     padding: 3%;
     text-align: center;
     color: rgb(46, 53, 61);
+    font-size: 35px;
 }
 
 main {

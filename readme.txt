@@ -7,3 +7,6 @@ This test site with using JS + HTML + CSS
 -Работает в ветке new_module
 
 -Все изменения для JS, PHP, СSS и HTML будут производиться здесь!
+
+-0.1 Тренировка создание одностраничного сайта
+newpage.js - к изучению
